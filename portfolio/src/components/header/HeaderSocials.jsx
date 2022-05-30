@@ -12,7 +12,7 @@ const HeaderSocials = () => {
       <a href='https://github.com' targer='_blank'>
         <ImGithub />
       </a>
-      <a href='https://dribble.com' targer='_blank'>
+      <a href='https://xing.com' targer='_blank'>
         <ImXing />
       </a>
     </div>
